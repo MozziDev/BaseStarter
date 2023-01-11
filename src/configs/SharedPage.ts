@@ -1,0 +1,1 @@
+export const SharedPage = ['/','/sign-in', '/sign-up'];
