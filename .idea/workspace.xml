@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac55d8c-eb7f-4109-84c4-0e9061727660" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/sequelize/database/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/sequelize/database/config/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673426096395</updated>
-      <workItem from="1673426097764" duration="1061000" />
+      <workItem from="1673426097764" duration="1262000" />
     </task>
     <servers />
   </component>
